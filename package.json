@@ -1,0 +1,15 @@
+{
+  "name": "playstation-now",
+  "version": "0.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "jsonlint": "1.6.2",
+    "log-prefix": "0.0.0",
+    "macaddress": "0.2.8",
+    "minimist": "1.2.0",
+    "ps-list": "3.1.0",
+    "websocket": "1.0.24",
+    "windows-foreground-love": "0.1.0",
+    "regedit": "2.2.6"
+  }
+}
